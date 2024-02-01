@@ -1,0 +1,2 @@
+# MiraCaliBakey
+Setting up Git
